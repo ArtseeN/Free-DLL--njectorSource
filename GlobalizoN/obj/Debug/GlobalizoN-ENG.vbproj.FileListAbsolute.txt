@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\GlobalizoN\GlobalizoN\bin\Debug\GlobalizoN-ENG.exe.config
+C:\Users\Lenovo\source\repos\GlobalizoN\GlobalizoN\bin\Debug\GlobalizoN-ENG.exe
+C:\Users\Lenovo\source\repos\GlobalizoN\GlobalizoN\bin\Debug\GlobalizoN-ENG.pdb
+C:\Users\Lenovo\source\repos\GlobalizoN\GlobalizoN\bin\Debug\GlobalizoN-ENG.xml
+C:\Users\Lenovo\source\repos\GlobalizoN\GlobalizoN\obj\Debug\GlobalizoN.Form1.resources
+C:\Users\Lenovo\source\repos\GlobalizoN\GlobalizoN\obj\Debug\GlobalizoN.Resources.resources
+C:\Users\Lenovo\source\repos\GlobalizoN\GlobalizoN\obj\Debug\GlobalizoN-ENG.vbproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\GlobalizoN\GlobalizoN\obj\Debug\GlobalizoN-ENG.vbproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\GlobalizoN\GlobalizoN\obj\Debug\GlobalizoN-ENG.exe
+C:\Users\Lenovo\source\repos\GlobalizoN\GlobalizoN\obj\Debug\GlobalizoN-ENG.xml
+C:\Users\Lenovo\source\repos\GlobalizoN\GlobalizoN\obj\Debug\GlobalizoN-ENG.pdb
